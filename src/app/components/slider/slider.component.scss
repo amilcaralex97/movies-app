@@ -9,9 +9,10 @@
   background-color: #000;
   position: relative;
   .slide {
-    position: relative;
+    position: absolute;
     display: flex;
     height: 35rem;
+    width: 100%;
     &-bg {
       position: relative;
       display: flex;
